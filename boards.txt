@@ -607,7 +607,7 @@ LilyPadUSB.build.extra_flags={build.usb_flags}
 
 ##############################################################
 
-lilypado.name=LilyPad Optiboot w/ ATmega328P
+lilypado.name=ATmega328 Optiboot w/internal oscillator
 
 lilypado.upload.tool=avrdude
 lilypado.upload.protocol=arduino
